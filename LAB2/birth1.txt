@@ -1,0 +1,4 @@
+2021	Northland region	2262
+2021	Auckland region	20520
+2022	Northland region	2367
+2022	Auckland region	20469
