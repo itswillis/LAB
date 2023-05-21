@@ -1,0 +1,160 @@
+2018	Births	Northland	2181
+2018	Births	Auckland	20712
+2018	Births	Waikato	6054
+2018	Births	Bay of Plenty	3969
+2018	Births	Gisborne	711
+2018	Births	Hawke's Bay	2070
+2018	Births	Taranaki	1548
+2018	Births	Manawatu-Wanganui	3024
+2018	Births	Wellington	5706
+2018	Births	Tasman	447
+2018	Births	Nelson	540
+2018	Births	Marlborough	504
+2018	Births	West Coast	324
+2018	Births	Canterbury	6939
+2018	Births	Otago	2148
+2018	Births	Southland	1119
+2018	Deaths	Northland	1692
+2018	Deaths	Auckland	8586
+2018	Deaths	Waikato	3420
+2018	Deaths	Bay of Plenty	2583
+2018	Deaths	Gisborne	429
+2018	Deaths	Hawke's Bay	1515
+2018	Deaths	Taranaki	1026
+2018	Deaths	Manawatu-Wanganui	2190
+2018	Deaths	Wellington	3330
+2018	Deaths	Tasman	402
+2018	Deaths	Nelson	441
+2018	Deaths	Marlborough	450
+2018	Deaths	West Coast	291
+2018	Deaths	Canterbury	4431
+2018	Deaths	Otago	1626
+2018	Deaths	Southland	804
+2019	Births	Northland	2250
+2019	Births	Auckland	21405
+2019	Births	Waikato	6237
+2019	Births	Bay of Plenty	4047
+2019	Births	Gisborne	675
+2019	Births	Hawke's Bay	2037
+2019	Births	Taranaki	1542
+2019	Births	Manawatu-Wanganui	3057
+2019	Births	Wellington	5904
+2019	Births	Tasman	462
+2019	Births	Nelson	537
+2019	Births	Marlborough	480
+2019	Births	West Coast	354
+2019	Births	Canterbury	7164
+2019	Births	Otago	2310
+2019	Births	Southland	1152
+2019	Deaths	Northland	1662
+2019	Deaths	Auckland	8619
+2019	Deaths	Waikato	3393
+2019	Deaths	Bay of Plenty	2787
+2019	Deaths	Gisborne	456
+2019	Deaths	Hawke's Bay	1584
+2019	Deaths	Taranaki	1041
+2019	Deaths	Manawatu-Wanganui	2178
+2019	Deaths	Wellington	3693
+2019	Deaths	Tasman	450
+2019	Deaths	Nelson	474
+2019	Deaths	Marlborough	414
+2019	Deaths	West Coast	300
+2019	Deaths	Canterbury	4608
+2019	Deaths	Otago	1695
+2019	Deaths	Southland	888
+2020	Births	Northland	2244
+2020	Births	Auckland	20385
+2020	Births	Waikato	6195
+2020	Births	Bay of Plenty	4005
+2020	Births	Gisborne	663
+2020	Births	Hawke's Bay	2079
+2020	Births	Taranaki	1467
+2020	Births	Manawatu-Wanganui	2976
+2020	Births	Wellington	5691
+2020	Births	Tasman	474
+2020	Births	Nelson	477
+2020	Births	Marlborough	477
+2020	Births	West Coast	312
+2020	Births	Canterbury	6780
+2020	Births	Otago	2238
+2020	Births	Southland	1083
+2020	Deaths	Northland	1644
+2020	Deaths	Auckland	8328
+2020	Deaths	Waikato	3357
+2020	Deaths	Bay of Plenty	2526
+2020	Deaths	Gisborne	393
+2020	Deaths	Hawke's Bay	1440
+2020	Deaths	Taranaki	1002
+2020	Deaths	Manawatu-Wanganui	2052
+2020	Deaths	Wellington	3282
+2020	Deaths	Tasman	366
+2020	Deaths	Nelson	444
+2020	Deaths	Marlborough	423
+2020	Deaths	West Coast	273
+2020	Deaths	Canterbury	4476
+2020	Deaths	Otago	1677
+2020	Deaths	Southland	894
+2021	Births	Northland	2262
+2021	Births	Auckland	20520
+2021	Births	Waikato	6330
+2021	Births	Bay of Plenty	4173
+2021	Births	Gisborne	675
+2021	Births	Hawke's Bay	2127
+2021	Births	Taranaki	1488
+2021	Births	Manawatu-Wanganui	2952
+2021	Births	Wellington	5769
+2021	Births	Tasman	492
+2021	Births	Nelson	498
+2021	Births	Marlborough	486
+2021	Births	West Coast	333
+2021	Births	Canterbury	7158
+2021	Births	Otago	2325
+2021	Births	Southland	1059
+2021	Deaths	Northland	1722
+2021	Deaths	Auckland	8907
+2021	Deaths	Waikato	3600
+2021	Deaths	Bay of Plenty	2760
+2021	Deaths	Gisborne	393
+2021	Deaths	Hawke's Bay	1548
+2021	Deaths	Taranaki	1035
+2021	Deaths	Manawatu-Wanganui	2295
+2021	Deaths	Wellington	3588
+2021	Deaths	Tasman	420
+2021	Deaths	Nelson	468
+2021	Deaths	Marlborough	471
+2021	Deaths	West Coast	336
+2021	Deaths	Canterbury	4689
+2021	Deaths	Otago	1764
+2021	Deaths	Southland	891
+2022	Births	Northland	2367
+2022	Births	Auckland	20469
+2022	Births	Waikato	6387
+2022	Births	Bay of Plenty	4257
+2022	Births	Gisborne	723
+2022	Births	Hawke's Bay	2076
+2022	Births	Taranaki	1458
+2022	Births	Manawatu-Wanganui	3030
+2022	Births	Wellington	5610
+2022	Births	Tasman	483
+2022	Births	Nelson	483
+2022	Births	Marlborough	480
+2022	Births	West Coast	303
+2022	Births	Canterbury	7284
+2022	Births	Otago	2328
+2022	Births	Southland	1143
+2022	Deaths	Northland	1986
+2022	Deaths	Auckland	9783
+2022	Deaths	Waikato	4101
+2022	Deaths	Bay of Plenty	3183
+2022	Deaths	Gisborne	441
+2022	Deaths	Hawke's Bay	1704
+2022	Deaths	Taranaki	1113
+2022	Deaths	Manawatu-Wanganui	2457
+2022	Deaths	Wellington	3804
+2022	Deaths	Tasman	444
+2022	Deaths	Nelson	531
+2022	Deaths	Marlborough	453
+2022	Deaths	West Coast	363
+2022	Deaths	Canterbury	5319
+2022	Deaths	Otago	1932
+2022	Deaths	Southland	933

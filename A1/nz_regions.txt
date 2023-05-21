@@ -1,0 +1,16 @@
+Northland	12504
+Auckland	4941
+Waikato	23900
+Bay of Plenty	12072
+Gisborne	8385
+Hawke's Bay	 14138
+Taranaki	7254
+Manawatu-Wanganui	22221
+Wellington	8049
+Tasman	9616
+Nelson	422
+Marlborough	10458
+West Coast	23245
+Canterbury	44504
+Otago	31186
+Southland	31196

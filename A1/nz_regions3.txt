@@ -1,0 +1,4 @@
+Northland	12504
+Auckland	4941
+Waikato	23900
+Bay of Plenty	12072

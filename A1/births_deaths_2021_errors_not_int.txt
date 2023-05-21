@@ -1,0 +1,8 @@
+2021	Births	Northland	2262
+2021	Births	Auckland	Unknown
+2021	Births	Waikato	6330
+Unknown	Births	Bay of Plenty	4173
+2021	Deaths	Northland	Unknown
+2021	Deaths	Auckland	8907
+2021	Deaths	Waikato	Unknown
+2021	Deaths	Bay of Plenty	2760

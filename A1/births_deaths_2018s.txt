@@ -1,0 +1,24 @@
+2018	Births	Northland	2181
+2018	Births	Auckland	20712
+2018	Births	Waikato	6054
+2018	Births	Bay of Plenty	3969
+2018	Deaths	Northland	1692
+2018	Deaths	Auckland	8586
+2018	Deaths	Waikato	3420
+2018	Deaths	Bay of Plenty	2583
+2019	Births	Northland	2250
+2019	Births	Auckland	21405
+2019	Births	Waikato	6237
+2019	Births	Bay of Plenty	4047
+2019	Deaths	Northland	1662
+2019	Deaths	Auckland	8619
+2019	Deaths	Waikato	3393
+2019	Deaths	Bay of Plenty	2787
+2020	Births	Northland	2244
+2020	Births	Auckland	20385
+2020	Births	Waikato	6195
+2020	Births	Bay of Plenty	4005
+2020	Deaths	Northland	1644
+2020	Deaths	Auckland	8328
+2020	Deaths	Waikato	3357
+2020	Deaths	Bay of Plenty	2526
